@@ -19,5 +19,9 @@ usage: ```python3 monitor.py``` ou ```pwsh monitor.ps1```
 ## V4 : generation de rapport HTML
 usage: ```python3 report.py && xdg-open rapport.html``` ou ```pwsh report.ps1 && xdg-open rapport.html```
 
+## V5 : notification des alertes
+usage: ```python3 python/alert_system.py --test``` ou ```pwsh powershell/alert_system.ps1 --test```
+
+
 
 Auteur Maxence Maury
